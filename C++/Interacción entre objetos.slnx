@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Interacción entre objetos/Interacción entre objetos.vcxproj" />
+</Solution>
